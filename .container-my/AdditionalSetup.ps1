@@ -1,1 +1,0 @@
-bash exploit.sh
